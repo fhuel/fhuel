@@ -1,3 +1,4 @@
+[![Banner Image](https://github.com/fhuel/fhuel/raw/master/assets/header_background.png)](https://manuelecapacci.com)
 ### Hi there 👋
 
 <!--
