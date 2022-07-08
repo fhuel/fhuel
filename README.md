@@ -3,7 +3,7 @@
 
 Using machines to create beauty and meaning for humans
 
-Founder and director at [OurFires](https://ourfir.es), London based design studio.
+<!-- Founder and director at [OurFires](https://ourfir.es), London based design studio. -->
 
 You can find me on
 - [website](https://fhuel.net),
