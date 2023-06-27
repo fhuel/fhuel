@@ -3,10 +3,8 @@
 
 Using machines to create beauty and meaning for humans
 
-<!-- Founder and director at [OurFires](https://ourfir.es), London based design studio. -->
+<!-- Founder and director at [OurFires](https://ourfir.es), London based computational design studio. -->
 
 You can find me on
-- [website](https://fhuel.net),
-- [Instagram](https://www.instagram.com/fhuel/),
-- [Ello](https://ello.co/fhuel),
-- [Twitter](https://twitter.com/0xFhuel)
+- [website](https://manuelecapacci.com),
+- [Twitter](https://twitter.com/ManueleCapacci)
