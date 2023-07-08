@@ -3,5 +3,5 @@
 Using machines to create beauty and meaning for humans
 
 You can find me on
-- [website](https://fhuel.net),
+- [Website](https://fhuel.net)
 - [Twitter](https://twitter.com/0xfhuel)
